@@ -19,6 +19,12 @@
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
         }
+    },
+        "pluginsConfig": {
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        }
     }
 
 }
