@@ -2,6 +2,6 @@
     "plugins": [
         "lunr", 
         "search",
-        "-search-plus"
+        "search-plus"
     ]
 }
