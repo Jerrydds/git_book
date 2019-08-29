@@ -28,4 +28,15 @@
     * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
     * [2.3 机器学习](chapter2/learning/machine_learning.md)
     * [2.4 搜索引擎](chapter2/search/search_engine.md)
+* [4.函数(一)](chapter2/README.md)
+ * [2.1 算法](chapter2/algorithm/algorithm.md)
+ * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
+ * [2.3 机器学习](chapter2/learning/machine_learning.md)
+ * [2.4 搜索引擎](chapter2/search/search_engine.md)
+* [5.函数(三-强化练习)](chapter2/README.md)
+ * [5.1 算法](chapter2/algorithm/algorithm.md)
+ * [5.2 数据挖掘](chapter2/data_mining/data_mining.md)
+ * [5.3 机器学习](chapter2/learning/machine_learning.md)
+ * [5.4 搜索引擎](chapter2/search/search_engine.md)
+
 
