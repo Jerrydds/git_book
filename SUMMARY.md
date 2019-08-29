@@ -2,15 +2,7 @@
 
 * [Python基础课件](README.md)
 * [1. Python基础知识](file/chapter1/README.md)
-  * [1.3 软件工程](chapter1/software.md)
-  * [1.4 数据结构](chapter1/data_structure.md)
-  * [1.5 数据库原理](chapter1/database.md)
-  * [1.6 计算机网络](chapter1/compute_network.md)
-  * [1.7 计算机系统](chapter1/compute_system/README.md)
-    * [1.7.1 操作系统](chapter1/compute_system/operating.md)
-    * [1.7.2 微机接口](chapter1/compute_system/interface.md)
-    * [1.7.3 计算机组成原理](chapter1/compute_system/comprise.md)
-    * [1.7.4 计算机系统结构](chapter1/compute_system/system_structure.md)
+  * [1.1. sdf](chapter1/software.md)
 * [2. 字符串、列表、元组、字典](file/chapter2/README.md)
   * [2.1 算法](chapter2/algorithm.md)
   * [2.2 数据挖掘](chapter2/data_mining.md)
@@ -37,4 +29,6 @@
   * 6.4. 应用1:制作文件的备份
   * 6.5. 文件、文件夹的相关操作
   * 6.6. 应用2:批量修改文件名
+
+
 
