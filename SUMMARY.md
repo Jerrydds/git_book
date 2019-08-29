@@ -38,6 +38,5 @@
   * [5.2. 匿名函数\(了解\)](file/chapter5/5.2.md)
   * [5.3. 列表推导式](file/chapter5/5.3.md)
 * [6. 文件操作、综合应用](file/chapter6/README.md)
-  * [6.1. 123123](file/chapter6/6.1.md)
-  * [6.2.](file/chapter6/6.2.md)
+  * [6.1. 文件操作介绍](file/chapter6/6.1.md)
 
