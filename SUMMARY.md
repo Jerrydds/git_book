@@ -33,7 +33,7 @@
  * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
  * [2.3 机器学习](chapter2/learning/machine_learning.md)
  * [2.4 搜索引擎](chapter2/search/search_engine.md)
-* [5.函数(三-强化练习)](chapter2/README.md)
+* [5.函数(三-强化练习)](chapter5/README.md)
  * [5.1 函数应用:学生管理系统(了解)](chapter5/5.1.md)
  * [5.2 匿名函数(了解)](chapter5/5.2.md)
  * [5.3 列表推导式](chapter5/5.3.md)
