@@ -1,7 +1,7 @@
 # Summary
 
 * [Python基础课件](README.md)
-* [1.Python基础知识](chapter1/README.md)
+* [Python基础知识](chapter1/README.md)
     * [1.1 数学](chapter1/math/math.md)
         * [1.1.1 高等数学](chapter1/math/advance.md)
         * [1.1.2 离散数学](chapter1/math/lisan.md)
@@ -18,12 +18,12 @@
         * [1.7.2 微机接口](chapter1/system/interface.md)
         * [1.7.3 计算机组成原理](chapter1/system/comprise.md)
         * [1.7.4 计算机系统结构](chapter1/system/system_structure.md)
-* [2.字符串、列表、元组、字典](chapter2/README.md)
+* [字符串、列表、元组、字典](chapter2/README.md)
     * [2.1 算法](chapter2/algorithm/algorithm.md)
     * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
     * [2.3 机器学习](chapter2/learning/machine_learning.md)
     * [2.4 搜索引擎](chapter2/search/search_engine.md)
-* [3.函数(一)](chapter3/README.md)
+* [函数(一)](chapter3/README.md)
     * [3.1 算法](chapter3/3.1.md)
     * [3.2 数据挖掘](chapter3/3.2.md)
     * [3.3 机器学习](chapter3/3.3.md)
