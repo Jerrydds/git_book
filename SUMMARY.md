@@ -1,7 +1,9 @@
 # Summary
 
 * [Python基础课件](README.md)
-* [1.Python基础知识](chapter1/README.md)
+* \[\[1.Python基础知识
+\]\(chapter1\/README.md\)\]\(1python基础知识
+chapter1readmemd.md\)
     * [1.1 数学](chapter1/math/math.md)
         * [1.1.1 高等数学](chapter1/math/advance.md)
         * [1.1.2 离散数学](chapter1/math/lisan.md)
@@ -23,6 +25,4 @@
     * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
     * [2.3 机器学习](chapter2/learning/machine_learning.md)
     * [2.4 搜索引擎](chapter2/search/search_engine.md)
-
------
 
