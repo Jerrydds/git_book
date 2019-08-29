@@ -1,5 +1,23 @@
 {
-    "plugins": [
-        "-search"
-    ]
+
+ "plugins": [
+
+ "-search",
+
+ "search-plus@^0.0.11",
+
+ "splitter@^0.0.8",
+
+ "-simple-page-toc@^0.1.1",
+
+ "-anchor-navigation-ex@0.1.8",
+
+ "anchors@^0.7.1",
+
+ "expandable-chapters-small@^0.1.7",
+
+ "-toggle-chapters"
+
+ ]
+
 }
