@@ -1,8 +1,7 @@
 # Summary
 
 * [Python基础课件](README.md)
-* [[1.Python基础知识](chapter1/README.md)](1python基础知识
-chapter1readmemd.md)
+* [1.Python基础知识](chapter1/README.md)
     * [1.1 数学](chapter1/math/math.md)
         * [1.1.1 高等数学](chapter1/math/advance.md)
         * [1.1.2 离散数学](chapter1/math/lisan.md)
