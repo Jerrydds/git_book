@@ -1,5 +1,13 @@
 {
 
+    "title": "GitBook 使用教程",
+    "description": "记录 GitBook 的配置和一些插件的使用",
+    "author": "zhangjikai",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+
 "plugins": [
      "-lunr",
      "-search",
@@ -8,7 +16,8 @@
      "anchor-navigation-ex@0.3.0",
      "splitter@0.0.8",
      "expandable-chapters-small@0.1.7",
-     "-toggle-chapters"
+     "-toggle-chapters",
+     "emphasize@1.1.0"
    
     ],
 "pluginsConfig": {
