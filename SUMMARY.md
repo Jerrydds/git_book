@@ -28,14 +28,14 @@
   * [3.2 数据挖掘](chapter3/3.2-shu-ju-wa-jue.md)
   * [3.3 机器学习](chapter3/3.3-ji-qi-xue-xi.md)
   * [3.4 搜索引擎](chapter3/3.4.md)
-* [4.函数\(二\)](chapter4/README.md)
+* [4.函数\(二\)](file/chapter4/README.md)
   * [4.1 算法](chapter4/4.1.md)
   * [4.2 数据挖掘](chapter4/4.2.md)
   * [4.3 机器学习](chapter4/4.3.md)
   * [4.4 搜索](chapter4/4.4.md)
-* 5.函数\(三\)
-  * [5.1函数\(三](5han-657028-4e0929.md)\)
-  * 5.2计算定积分
-
-
+* [5.函数\(三\)](5han-657028-4e0929.md)
+  * [5.1函数\(三](file/chapter5/5.1.md)
+  * [5.2计算定积分](file/chapter5/5.2.md)
+  * [65757657](file/chapter5/5.3.md)
+  * [123123123123](file/chapter5/5.4.md)
 
