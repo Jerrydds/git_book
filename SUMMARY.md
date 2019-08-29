@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [Introduction](README.md)
 * [第一部分](chapter1
     * [1.1 数学](chapter1/math/math.md)
@@ -23,3 +24,40 @@
     * [2.2 数据挖掘](chapter2/data_mining/data_mining.md)
     * [2.3 机器学习](chapter2/learning/machine_learning.md)
     * [2.4 搜索引擎](chapter2/search/search_engine.md)
+=======
+* [Python基础课件](README.md)
+* [1.Python基础知识](chapter1/README.md)
+  * [1.1 数学](chapter1/math/README.md)
+    * [1.1.1 高等数学](chapter1/math/advance.md)
+    * [1.1.2 离散数学](chapter1/math/lisan.md)
+  * [1.2 编程语言](chapter1/program/README.md)
+    * [1.2.1 C 语言](chapter1/program/c.md)
+    * [1.2.2 C++](chapter1/program/c++.md)
+    * [1.2.3 Java](chapter1/program/java.md)
+  * [1.3 软件工程](chapter1/software.md)
+  * [1.4 数据结构](chapter1/data_structure.md)
+  * [1.5 数据库原理](chapter1/database.md)
+  * [1.6 计算机网络](chapter1/compute_network.md)
+  * [1.7 计算机系统](chapter1/compute_system/README.md)
+    * [1.7.1 操作系统](chapter1/compute_system/operating.md)
+    * [1.7.2 微机接口](chapter1/compute_system/interface.md)
+    * [1.7.3 计算机组成原理](chapter1/compute_system/comprise.md)
+    * [1.7.4 计算机系统结构](chapter1/compute_system/system_structure.md)
+* [2.字符串、列表、元组、字典](chapter2/README.md)
+  * [2.1 算法](chapter2/algorithm.md)
+  * [2.2 数据挖掘](chapter2/data_mining.md)
+  * [2.3 机器学习](chapter2/machine_learning.md)
+  * [2.4 搜索引擎](chapter2/search_engine.md)
+* [3.函数\(一\)](chapter3/README.md)
+  * [3.1 算法](chapter3/3.1-suan-fa.md)
+  * [3.2 数据挖掘](chapter3/3.2-shu-ju-wa-jue.md)
+  * [3.3 机器学习](chapter3/3.3-ji-qi-xue-xi.md)
+  * [3.4 搜索引擎](chapter3/3.4.md)
+* [4.函数\(二\)](chapter4/README.md)
+  * [4.1 算法](chapter4/4.1.md)
+  * [4.2 数据挖掘](chapter4/4.2.md)
+  * [4.3 机器学习](chapter4/4.3.md)
+  * [4.4 搜索](chapter4/4.4.md)
+* [5.函数\(三\)](5han-657028-4e0929.md)
+
+>>>>>>> a0c18f91ca078c3e278893816fe381d0e988f788
