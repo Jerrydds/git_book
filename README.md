@@ -1,2 +1,2 @@
-# Python基础讲义
+# Python基础课件
 
