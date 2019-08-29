@@ -1,7 +1,5 @@
 # Summary
 
-
-
 * [Python基础课件](README.md)
 * [1.Python基础知识](chapter1/README.md)
   * [1.1 数学](chapter1/math/README.md)
@@ -35,7 +33,9 @@
   * [4.2 数据挖掘](chapter4/4.2.md)
   * [4.3 机器学习](chapter4/4.3.md)
   * [4.4 搜索](chapter4/4.4.md)
-* [5.函数\(三\)](5han-657028-4e0929.md)
+* 5.函数\(三\)
+  * [5.1函数\(三](5han-657028-4e0929.md)\)
+  * 
 
 
 
