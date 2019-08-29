@@ -37,6 +37,5 @@
   * [5.1. 函数应用：学生管理系统\(了解\)](file/chapter5/5.1.md)
   * [5.2. 匿名函数\(了解\)](file/chapter5/5.2.md)
   * [5.3. 列表推导式](file/chapter5/5.3.md)
-  * [123123123123](file/chapter6/6.1.md)
 * [6. 文件操作、综合应用](file/chapter6/README.md)
 
