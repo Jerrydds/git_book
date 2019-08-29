@@ -1,8 +1,8 @@
 {
 
  "plugins": [
-     "-search",
-     "search-plus@^0.0.11",
+     "search",
+     "-search-plus@^0.0.11",
      "splitter@^0.0.8",
      "simple-page-toc@^0.1.1",
      "anchor-navigation-ex@0.1.8",
