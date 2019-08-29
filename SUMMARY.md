@@ -2,12 +2,12 @@
 
 * [Python基础课件](README.md)
 * [1. Python基础知识](file/chapter1/README.md)
-  * [1.1. sdf](chapter1/software.md)
+  * [1.1. sdf](file/chapter1/1.1.md)
 * [2. 字符串、列表、元组、字典](file/chapter2/README.md)
-  * [2.1 算法](chapter2/algorithm.md)
-  * [2.2 数据挖掘](chapter2/data_mining.md)
-  * [2.3 机器学习](chapter2/machine_learning.md)
-  * [2.4 搜索引擎](chapter2/search_engine.md)
+  * [2.1. 算法](file/chapter2/2.1.md)
+  * [2.2. 数据挖掘](chapter2/data_mining.md)
+  * [2.3. 机器学习](chapter2/machine_learning.md)
+  * [2.4. 搜索引擎](chapter2/search_engine.md)
 * [3. 函数\(一\)](file/chapter3/README.md)
   * [3.1 算法](chapter3/3.1-suan-fa.md)
   * [3.2 数据挖掘](chapter3/3.2-shu-ju-wa-jue.md)
@@ -29,6 +29,4 @@
   * 6.4. 应用1:制作文件的备份
   * 6.5. 文件、文件夹的相关操作
   * 6.6. 应用2:批量修改文件名
-
-
 
