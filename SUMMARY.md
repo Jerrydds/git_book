@@ -2,13 +2,6 @@
 
 * [Python基础课件](README.md)
 * [1. Python基础知识](file/chapter1/README.md)
-  * [1.1 数学](chapter1/math/README.md)
-    * [1.1.1 高等数学](chapter1/math/advance.md)
-    * [1.1.2 离散数学](chapter1/math/lisan.md)
-  * [1.2 编程语言](chapter1/program/README.md)
-    * [1.2.1 C 语言](chapter1/program/c.md)
-    * [1.2.2 C++](chapter1/program/c++.md)
-    * [1.2.3 Java](chapter1/program/java.md)
   * [1.3 软件工程](chapter1/software.md)
   * [1.4 数据结构](chapter1/data_structure.md)
   * [1.5 数据库原理](chapter1/database.md)
@@ -39,4 +32,9 @@
   * [5.3. 列表推导式](file/chapter5/5.3.md)
 * [6. 文件操作、综合应用](file/chapter6/README.md)
   * [6.1. 文件操作介绍](file/chapter6/6.1.md)
+  * [6.2. 文件的打开与关闭](file/chapter6/6.2.md)
+  * 6.3. 文件的读写
+  * 6.4. 应用1:制作文件的备份
+  * 6.5. 文件、文件夹的相关操作
+  * 6.6. 应用2:批量修改文件名
 
