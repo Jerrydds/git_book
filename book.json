@@ -1,7 +1,7 @@
 {
     "plugins": [
-        "lunr", 
-        "search",
-        "search-plus"
+        "-lunr", 
+        "-search",
+        "search-plus@^0.0.11"
     ]
 }
