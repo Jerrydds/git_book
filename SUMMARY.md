@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](/README.md "Python基础课件")
+* [Python基础课件](/README.md)
 * [第一部分](chapter1/README.md)
   * [1.1 数学](chapter1/math/math.md)
     * [1.1.1 高等数学](chapter1/math/advance.md)
