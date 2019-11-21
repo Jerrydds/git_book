@@ -1,79 +1,37 @@
 {
-    "title" : "Gibook Use",
-    "description" : "记录Gitbook的配置和一些插件的使用",
-    "author" : "AK",
-    "generator": "site",
-    "language" : "zh-hans",
-    "gitbook" : "2.6.4",
-    "-links" : {
-        "sidebar" : {
-            "Home" : "https://XXXX.com"
-        }
-    },
-   "plugins": [
-        "-disqus",
-        "search",
-        "-github",
-        "-search-pro@1.0.7",
-        "-advanced-emoji@0.1.5",
-        "-ace",
-        "-emphasize",
-        "-katex",
-        "-anchors",
-        "-include-codeblock",
-        "-mermaid",
-        "tbfed-pagefooter",
-        "-sectionx",
-        "-expandable-chapters",
-        "-codeblock-filename",
-        "-sitemap@1.0.2",
-        "donate",
-        "-local-video",
-        "toc",
-        "back-to-top-button@0.1.0",
-        "anchor-navigation-ex@0.3.0",
-        "splitter@0.0.8",
-        "expandable-chapters-small@0.1.7"
 
+    "title": "Python 使用教程",
+    "description": "记录 GitBook 的配置和一些插件的使用",
+    "author": "Ike",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+
+"plugins": [
+     "-lunr",
+     "-search",
+     "search-plus@0.0.11",
+     "simple-page-toc@0.1.1",
+     "anchor-navigation-ex@0.3.0",
+     "splitter@0.0.8",
+     "expandable-chapters-small@0.1.7",
+     "-toggle-chapters",
+     "emphasize@1.1.0"
+   
     ],
-    "pluginsConfig": {
- 
-        "-github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
-        },
-        "-search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": ["gitbook-use"]
-         },
-
-        "sharing": {
-            "weibo": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false,
-            "instapaper": false,
-             "vk": false,
-            "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper"
-            ]
-        },
-
-        "tbfed-pagefooter": {
-            "copyright":"©2019 Demon Network Tech Co., Ltd.",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-
-  
-        "donate": {
-          "wechat": "https://i.loli.net/2019/11/04/WoSAvn2TEeBr6xk.png",
-          "alipay": "https://i.loli.net/2019/11/04/69unlxVRF8c2S4O.png",
-          "title": "",
-          "button": "赏",
-          "alipayText": "支付宝打赏",
-          "wechatText": "微信打赏"
+"pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+    },    
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
         }
-
     }
+
 }
