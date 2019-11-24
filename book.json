@@ -1,23 +1,32 @@
 {
 
-    "title": "Python 使用教程",
+    "title": "Gitbook Use",
     "description": "记录 GitBook 的配置和一些插件的使用",
     "author": "Ike",
-    "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "root": ".",
+"styles": {
+    "website": "styles/website.css",
+    "-ebook": "styles/ebook.css",
+    "-pdf": "styles/pdf.css",
+    "-mobi": "styles/mobi.css",
+    "-epub": "styles/epub.css"
+},
 
 "plugins": [
      "-lunr",
      "-search",
      "search-plus@0.0.11",
-     "simple-page-toc@0.1.1",
+     "-search-pro",
+     "-simple-page-toc@0.1.1",
      "anchor-navigation-ex@0.3.0",
      "splitter@0.0.8",
-     "expandable-chapters-small@0.1.7",
-     "-toggle-chapters",
-     "emphasize@1.1.0"
+     "-expandable-chapters-small@0.1.7",
+     "expandable-chapters",
+     "-chapter-fold@0.0.4",
+     "tbfed-pagefooter@0.0.1",
+     "donate@1.0.2"
    
     ],
 "pluginsConfig": {
@@ -27,10 +36,23 @@
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
-    },    
-        "simple-page-toc": {
+        },    
+        "-simple-page-toc": {
             "maxDepth": 3,
             "skipFirstH1": true
+        },
+        "tbfed-pagefooter": {
+          "copyright": "©2019 Demon Network Tech Co., Ltd.",
+          "modify_label": "最后修订时间：",
+          "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+          "wechat": "https://i.loli.net/2019/11/04/WoSAvn2TEeBr6xk.png",
+          "alipay": "https://i.loli.net/2019/11/04/69unlxVRF8c2S4O.png",
+          "title": "",
+          "button": "赏",
+          "alipayText": "支付宝打赏",
+          "wechatText": "微信打赏"
         }
     }
 
