@@ -17,30 +17,23 @@
 "plugins": [
      "-lunr",
      "-search",
-     "search-plus@0.0.11",
-     "-search-pro",
-     "-simple-page-toc@0.1.1",
-     "anchor-navigation-ex@0.3.0",
+     "search-plus@1.0.3",
+     "anchor-navigation-ex@1.0.14",
      "splitter@0.0.8",
-     "-expandable-chapters-small@0.1.7",
-     "expandable-chapters",
-     "-chapter-fold@0.0.4",
+     "expandable-chapters-small@0.1.7",
+     "chapter-fold@0.0.4",
      "tbfed-pagefooter@0.0.1",
      "donate@1.0.2"
    
     ],
 "pluginsConfig": {
         "anchor-navigation-ex": {
-            "isRewritePageTitle": true,
             "isShowTocTitleIcon": true,
             "tocLevel1Icon": "fa fa-hand-o-right",
             "tocLevel2Icon": "fa fa-hand-o-right",
             "tocLevel3Icon": "fa fa-hand-o-right"
+
         },    
-        "-simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
-        },
         "tbfed-pagefooter": {
           "copyright": "©2019 Demon Network Tech Co., Ltd.",
           "modify_label": "最后修订时间：",
